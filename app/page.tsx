@@ -20,7 +20,7 @@ export default function Page() {
             <a href="https://piyushg1.github.io/p/" className="text-blue-500">
               My Portfolio,{' '}
             </a>
-            and let's connect.
+            and let&apos;s connect.
           </p>
           <Link
             href="/login"
